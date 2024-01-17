@@ -1,0 +1,137 @@
+.img-logo {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+.paragraph-top {
+  background-color: #fdfbf1;
+  border-top: 2px solid #ffd877;
+  padding: 30px;
+  color: #004d4c;
+  font-size: 20px;
+  text-align: center;
+}
+
+.span-paragraph-top {
+  font-weight: bold;
+}
+
+.div-with-focaccia {
+  margin: 0;
+  text-align: center;
+}
+
+.title-h1 {
+  font-size: 30px;
+  text-align: center;
+  color: #333333;
+  margin-block-start: 90px;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+.under-h1 {
+  font-size: 20px;
+  padding-inline: 80px;
+  text-align: left;
+}
+
+.figure {
+  text-align: center;
+  border-radius: 60px;
+  margin-inline: 6%;
+  width: 650px;
+}
+
+.img-focaccia {
+  border-radius: 10px;
+}
+
+.figcaption {
+  color: #999999;
+  padding-block-start: 30px;
+  font-size: 20px;
+}
+
+.div-under-img-focaccia {
+  border-left: 2px solid #ffd877;
+  margin-block-start: 60px;
+  padding-inline: 16px;
+  margin-inline: 6%;
+}
+
+.featured {
+  color: #b64914;
+  font-size: 23px;
+  font-weight: bolder;
+  margin-inline-start: 15px;
+  margin-block-end: 0;
+}
+
+.fresh {
+  color: #107777;
+  font-size: 23px;
+  text-decoration: underline;
+  margin-inline-start: 15px;
+  margin-block-start: 0;
+}
+
+.ingredients-h2 {
+  margin-inline: 6%;
+  margin-block-start: 80px;
+  padding-block-start: 20px;
+  padding-block-end: 30px;
+  font-size: 35px;
+  font-weight: lighter;
+  border-bottom: 2px solid #c4f3f2;
+}
+
+.first-h3 {
+  margin-inline: 6%;
+  margin-block-start: 60px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.first-ul {
+  margin-inline: 6%;
+  font-size: 20px;
+}
+
+ul.first-ul li {
+  margin-bottom: 30px;
+}
+
+.method {
+  margin-inline: 6%;
+  font-size: 35px;
+  border-bottom: 2px solid #c4f3f2;
+  padding-block-end: 30px;
+}
+
+.order-list {
+  margin-inline: 6%;
+  font-size: 25px;
+}
+
+ol li p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.last-paragraph {
+  margin-inline: 12%;
+  font-size: 20px;
+}
+
+.last-paragraph-with-link {
+  margin-inline: 6%;
+  font-size: 20px;
+}
+
+.main {
+  margin-inline: 21%;
+}
